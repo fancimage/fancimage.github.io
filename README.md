@@ -7,4 +7,4 @@ TernLight是基于HTML CANVAS API的Javascript库，提供在HTML页面上绘制
 3. 支持label，可编辑/显示文本；label可作为Shape等的子元素（见demo中的MyShape示例）；   
 4. 支持图元的拖拽；  
 5. 支持从画布外拖拽新的shape到画布中（见demo中的示例）；  
-![示例图片]( fancimage.github.io/images/ternlight.png )
+![示例图片](https://fancimage.github.io/images/ternlight.png)
